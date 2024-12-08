@@ -1,0 +1,74 @@
+[
+    {
+        "id": 2,
+        "name": "admin",
+        "email": "kham@gmail.com",
+        "password": "scrypt:32768:8:1$eCqqk5pcEwnimFB0$80881973c706a00d2fa44405b07a887ac539db25c269bbfcd0d52b8c0aef0622ff885961f40827659bbe03e246ade4692985bef24d3c909ade3000d703c5fba2",
+        "image": "images (17).jpeg",
+        "type": "user"
+    },
+    {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "password": "scrypt:32768:8:1$U1nCpFKg2GqjhiFb$9c84f42f368e7b6516c09067f52f71eaa2a5a810fb8191f74724cd7aa7d3ae9c4f6117f2d5a1806a90e75042eec18e54c38990bc355bac588a809def4038addd",
+        "image": "images (18).jpeg",
+        "type": "admin"
+    },
+    {
+        "id": 3,
+        "name": "lee",
+        "email": "lee@gmail.com",
+        "password": "scrypt:32768:8:1$uZvatFJTaO0DfvO2$a7c05f69c54f6d7379dd9480e93a7b2f2d2fc6ce1f71fc8758cf7a328f0eaf9a81470ec45a221fe3bea07387e17ba137940fe391c96cf7abb63daf529126abe2",
+        "image": "images (14).jpeg",
+        "type": "user"
+    },
+    {
+        "id": 4,
+        "name": "joh",
+        "email": "joh@gmail.com",
+        "password": "scrypt:32768:8:1$2pRKBrmSVAESp9hi$1f2a4229dc289e206ceddcf6eba77ec9ecbe5e6a77a1f72c5e369d7b6c368ed6ecc8d7d70da529828526658d69c3a116f1ed14c2a4341c028eb8e6b8325e0ffb",
+        "image": "depositphotos_65699901-stock-photo-black-man-keeping-arms-crossed.jpg",
+        "type": "user"
+    },
+    {
+        "id": 5,
+        "name": "tub",
+        "email": "tub@gmail.com",
+        "password": "scrypt:32768:8:1$CVUUbcILPse4aKl6$33c7d150d347592041fa3186837b34094272ac089db94c00237ab9ddb83a95ab0bc764116528408b1129a30961e211121280f4f68125edd499850544c0c61e91",
+        "image": "images (15).jpeg",
+        "type": "user"
+    },
+    {
+        "id": 6,
+        "name": "phou",
+        "email": "phou123@gmail.com",
+        "password": "scrypt:32768:8:1$ojJwKyfIXxHz5NLT$01a8157a2a11110d56d57b42f9b49f3a8844551d12e46215a1d68ea55931a67272d01a85e0e0ab527870e0ea066eee87ac72f635edf75913c63a7aa3fa5e272f",
+        "image": "pexels-simon-robben-55958-614810.jpg",
+        "type": "user"
+    },
+    {
+        "id": 7,
+        "name": "her",
+        "email": "her@gmail.com",
+        "password": "scrypt:32768:8:1$1OAcpge3RSUI78vo$872a8e33e6467dc6aa92a4f8885c6a71d078807a8bcd53c0a7770a227d7b5e809fb85fb4874890e348d9b9230e0481ed4495b972171cdbf3e1ff09b382430d21",
+        "image": "download12.jpeg",
+        "type": "user"
+    },
+    {
+        "id": 8,
+        "name": "pao",
+        "email": "pao@gmail.com",
+        "password": "scrypt:32768:8:1$oVadpnEKiHUbvoUR$716cbd4f3740173ff98c813edc4da063c36b614f5ae6baa786b025656e7896c271497214ce7e87cb23388667a2258808c00dbb9aa05d909b82083a7f010ec4c9",
+        "image": "images (19).jpeg",
+        "type": "user"
+    },
+    {
+        "id": 9,
+        "name": "vang",
+        "email": "vang@gmail.com",
+        "password": "scrypt:32768:8:1$64Ud50pp7pF3nnDO$a2c0e0034524bbf212129798706d3212a2801b631efa0427ea5e7f9d4430eb86069243efca1feb38de069647459621428746a31e602e990f7192b8babb55b938",
+        "image": "images (20).jpeg",
+        "type": "user"
+    }
+]
